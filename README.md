@@ -29,11 +29,9 @@
 sudo apt update
 sudo apt install python3-tk
 
-text
 - Linux (Red Hat/Fedora):
 sudo dnf install python3-tkinter
 
-text
 
 3. Дополнительные библиотеки не требуются.
 
