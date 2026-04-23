@@ -107,9 +107,15 @@ python change_FIO3.0.py
 
 ## Рекомендации по работе с кодом
 Config - хранение настроек (пути, таймауты, константы)
+
 Transliterator - транслитерация кириллицы в латиницу
+
 ServerManager - чтение servers.json, получение IP и пароля по коду региона
+
 AlcatelSession - низкоуровневая работа с Telnet
+
 AlcatelOXEClient - выполнение mgr-скриптов на АТС
+
 SubscriberUpdater - основная бизнес-логика обновления абонента
+
 GUI - Tkinter интерфейс
